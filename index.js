@@ -19,7 +19,7 @@ emailjs.send(serviceID,  templateID,  params)
     document.getElementById("message").value = "";
 
     console.log(res);
-  alert("vvvvvvvvvvvvvvvvvvvvvvv"); 
+  alert("Success!"); 
   })
 
 
